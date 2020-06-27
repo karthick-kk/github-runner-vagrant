@@ -1,5 +1,7 @@
 # Github self-hosted runner Dockerfile configuration
 
+![Docker Pulls](https://img.shields.io/docker/pulls/karthickk/github-runner-vagrant) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/karthickk/github-runner-vagrant) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/karthickk/github-runner-vagrant)
+
 based on https://github.com/SanderKnape/github-runner
 
 ## Building the container
